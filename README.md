@@ -21,11 +21,11 @@ that, however, the marketing analyst team needs to better understand how annual 
 - First question is considered for the following analysis.
 
 ### Data Set
-- View [Dataset]([https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed.csv]).
+- View [Dataset](https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed.csv).
 
 
 ### Tools
-- Microsoft Excel  - View [Excel Spreadsheet]([https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed-%20Final.csv])
+- Microsoft Excel  - View [Excel Spreadsheet](https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed-%20Final.csv)
 
 ### Analysis
 - Usage (based on trip duration) of bikes by casual riders is almost twice that of member riders.
